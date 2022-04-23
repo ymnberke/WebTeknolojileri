@@ -1,2 +1,21 @@
-# Web Teknolojileri
-Merhabalar. Bu projemde memleketim olan Kocaeli şehrini ve kendimi sizlere tanıtacağım. Kocaeli ’de gezilecek yerler, kültürel miraslar gibi daha birçok bilgiye yapmış olacağım web sitemden ulaşabileceksiniz. Aynı zamanda bu sitede kendimle alakalı da (hobilerim, özgeçmişim vs.) bilgiler paylaşacağım. Bu sitede front-end kısmında HTML, CSS ve Javascript, back-end kısmındaysa php dillerini kullanmayı düşünüyorum. Ayrıca veri tabanı olarak ise Mysql kullanacağım.
+# Projenin Amacı
+- Kendimi ve memleketim olan Kocaeli şehrini tanıtan bir web sitesi geliştirmek
+
+# Projenin İçeriği
+- Giriş sayfası niteliğinde kendimi tanıttığım (hobiler, etkinlikler vb.) hakkında sayfası
+- Eğitim bilgilerimi içeren CV niteliğinde özgeçmiş sayfası
+- Memleketime ait bilgilerin bulunduğu (şehrin nüfusu, gezilecek yerler vb.) şehrim sayfası
+- Şehre ait kültürel miras niteliğindeki önemli bir eseri tanıtan mirasımız sayfası
+- İlgi alanlarım çerçevesinde ücretsiz bir api servisinden alınan verilerle oluşturulan ilgi alanlarım sayfası
+- Kullanıcı adı ve şifrenin girildiği login sayfası
+- Form elemanları içeren iletişim sayfası
+
+# Projede Kullanılacak Teknolojiler
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- PHP
+
+
+
