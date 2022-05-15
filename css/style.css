@@ -1,0 +1,26 @@
+.login-body{
+    display: flex;
+    align-items: center;
+    background-color: #f0fff0;
+}
+
+.login-form img{
+    border-radius: 50%;
+    width: 280px;
+    height: 220px;
+}
+
+.nav-item{
+    margin-left: 10px;
+}
+
+.sayfa-body{
+    background-color: antiquewhite;
+}
+
+.icons{
+    font-size: 35px;
+    text-align: center;
+}
+
+
